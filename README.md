@@ -10,4 +10,4 @@ Excel sheet with a VBA script for generating the tabs of your melodies. The scri
 ## Template version 1.0
 After a melody has been created it can be copied into the other sheet which look like this:
 
-![tab_table](https://github.com/akerlund/guitar_tab_creator/blob/master/guitar_tab_table.jpg)
+![tab_table](https://github.com/akerlund/guitar_tab_creator/blob/master/tab_template.JPG)
