@@ -5,7 +5,7 @@ Excel sheet with a VBA script for generating the tabs of your melodies. The scri
 
 * Click on any fret to add a note and
 * hold **Alt** in order to add another note to the same pulse and
-* click the **Blank** field to skip on pulse
+* click the **Blank** field to skip one pulse
 
 ## Template version 1.0
 After a melody has been created it can be copied into the other sheet which look like this:
